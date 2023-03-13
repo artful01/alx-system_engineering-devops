@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt | cut -d" " -f8 | head -n 8
