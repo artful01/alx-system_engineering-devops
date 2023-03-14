@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -pF | printenv
+declare -pF | env
